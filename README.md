@@ -1,4 +1,4 @@
-![MasterHead](https://im.ezgif.com/tmp/ezgif-1-0337d05916.gif)
+![MasterHead](https://c.tenor.com/3B6fE1zIaHMAAAAd/hotz-hacker.gif)
 
 <h1 align="center">Hola 👋, I'm Saroj Kumar Tharu</h1>
 <h3 align="center">A passionate Software developer from Nepal</h3>
