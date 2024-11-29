@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **c,c++, javascript **
+- 💬 Ask me about **c c++ and javascript**
 
 - 📫 How to reach me **saroj11345@gmail.com**
 
