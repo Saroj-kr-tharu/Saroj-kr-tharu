@@ -1,10 +1,10 @@
 <h1 align="center">Hello 👋, I'm Saroj Kumar Tharu</h1>
-<h3 align="center">Full Stack Engineer & Software Engineer with expertise in React, Node.js, Express.js, Python, AI/ML, Docker, AWS, and RabbitMQ</h3>
+<h3 align="center">Full Stack Engineer & Software Engineer with expertise in React, Node.js, Express.js, Angular, AI/ML, Docker, AWS, and RabbitMQ</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/600557/screenshots/3625204/media/fcab62316b56f66ea4a4268fae3335a4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saroj-kr-tharu&label=Profile%20views&color=0e75b6&style=flat" alt="saroj-kr-tharu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 🌱 I’m currently learning **AI/ML**
 
@@ -81,8 +81,4 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saroj-kr-tharu&show_icons=true&locale=en&layout=compact" alt="saroj-kr-tharu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saroj-kr-tharu&show_icons=true&locale=en" alt="saroj-kr-tharu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saroj-kr-tharu&" alt="saroj-kr-tharu" /></p>
